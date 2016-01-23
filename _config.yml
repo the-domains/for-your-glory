@@ -1,0 +1,28 @@
+name: For Your Glory
+favicon: null
+layout_spectrum: 0.9749979155603796
+typography_spectrum: 0.25380506040528417
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9489909738767892
+  lightness: 0.962617936078459
+  saturation: 0.14615199365653098
+  rhythmicContrast: 0.8432682221755385
+purpose: []
