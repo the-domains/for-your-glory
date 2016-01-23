@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-23T23:12:37.989Z'
+datePublished: '2016-01-23T23:12:38.042Z'
 dateModified: '2016-01-23T23:00:56.044Z'
 title: For Your Glory
 author: []
