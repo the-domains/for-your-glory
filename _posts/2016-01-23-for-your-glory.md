@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-23T22:47:49.982Z'
-dateModified: '2016-01-23T22:47:16.693Z'
+datePublished: '2016-01-23T23:12:37.989Z'
+dateModified: '2016-01-23T23:00:56.044Z'
 title: For Your Glory
 author: []
 authors: []
